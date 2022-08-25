@@ -1,5 +1,5 @@
 '''
-A001 Pascal's Triangle
+A002 Pascal's Triangle
 Problem : https://leetcode.com/problems/pascals-triangle/
 Date : 20220823
 '''
