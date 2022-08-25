@@ -1,7 +1,7 @@
 '''
-A004 Plus One
+A004 Divisible Array of Numbers
 Problem : https://school.programmers.co.kr/learn/courses/30/lessons/12910
-Date : 20220823
+Date : 20220825
 '''
 
 def solution(arr, divisor):
