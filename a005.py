@@ -17,7 +17,6 @@ def solution(skill, skill_trees):
             if len(element) != 0 and element[0] != skill[0]:
                 continue
             answer = answer + 1
-            print(element)
             
     return answer
 
