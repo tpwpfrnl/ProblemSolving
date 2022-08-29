@@ -3,6 +3,7 @@ A008 Might be above the Average
 Problem : https://www.acmicpc.net/problem/4344
 Date : 20220829
 '''
+
 numOfTestcase = input()
 
 for i in range(int(numOfTestcase)):
