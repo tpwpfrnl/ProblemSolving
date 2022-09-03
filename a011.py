@@ -1,3 +1,9 @@
+'''
+A011 Failure Rate
+Problem : https://school.programmers.co.kr/learn/courses/30/lessons/42889
+Date : 20220901
+'''
+
 def solution(N, stages):
     answer = []
     answerli = []

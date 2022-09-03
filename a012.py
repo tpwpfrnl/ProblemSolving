@@ -1,3 +1,9 @@
+'''
+A012 Count Primes
+Problem : https://leetcode.com/problems/count-primes/
+Date : 20220904
+'''
+
 class Solution:
     def countPrimes(self, n: int) -> int:
         t = [False,False]+[True]*(n-2)
