@@ -15,4 +15,4 @@ class Solution:
         return t.count(True)
 
 a = Solution()
-print(a.countPrimes(10))
+print(a.countPrimes(400000))
