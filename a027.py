@@ -1,5 +1,5 @@
 '''
-A027 Making Biggest Number
+A027 Making Largest Number
 Problem : https://school.programmers.co.kr/learn/courses/30/lessons/42883#
 Date : 20220919
 '''
