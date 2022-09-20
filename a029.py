@@ -1,5 +1,5 @@
 '''
-A028 DoorDoorDoor
+A029 DoorDoorDoor
 Problem : https://www.acmicpc.net/problem/17210
 Date : 20220919
 '''
