@@ -1,7 +1,7 @@
 '''
 A052 OX Quiz
 Problem : https://www.acmicpc.net/problem/8958
-Date : 20230107
+Date : 20230108
 '''
 
 T = int(input())

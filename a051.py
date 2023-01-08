@@ -1,7 +1,7 @@
 '''
 A051 Dial
 Problem : https://www.acmicpc.net/problem/5622
-Date : 20230107
+Date : 20230108
 '''
 
 word = input()
