@@ -8,7 +8,6 @@ class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
         count = 0
         for i, value in enumerate(nums):
-            print(i, value)
             if value == val:
                 nums[i] = -1
                 count = count + 1
